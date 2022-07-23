@@ -1,0 +1,3 @@
+2
+Dallas|Detroit|T
+Chicago|Fresno|C

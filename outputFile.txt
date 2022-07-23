@@ -1,0 +1,7 @@
+Flight: 1: Dallas, Detroit (Time)
+
+Flight: 2: Chicago, Fresno (Cost)
+Path 1: Chicago -> Fresno Time: 52 Cost: 168
+Path 2: Chicago -> Greensboro -> El Paso -> Detroit -> Fresno Time: 207 Cost: 445
+Path 3: Chicago -> Greensboro -> El Paso -> Billings -> Detroit -> Fresno Time: 241 Cost: 535
+
